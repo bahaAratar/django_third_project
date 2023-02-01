@@ -1,0 +1,5 @@
+venv
+main/__pycache__
+main/settings.py
+test_models/__pycache__
+test_models/migrations/__pycache__
